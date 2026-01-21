@@ -33,7 +33,7 @@ const links = [
   //   url: "./assets/cv.pdf",
   // },
   {
-    name: "(412) 214-2063",
+    name: "Phone",
     icon: "./assets/phone.svg",
     url: "tel:+14122142063",
   }
