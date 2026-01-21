@@ -8,7 +8,6 @@ This repository contains a simple static portfolio page generated from the resum
 - Use any static server (optional), e.g.:
 
 ```bash
-cd /Users/MinXiao/CMU/Minn/portfolio
 python3 -m http.server 8000
 ```
 
